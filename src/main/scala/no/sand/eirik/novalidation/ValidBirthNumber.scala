@@ -1,4 +1,4 @@
-package no.sand.eirik.checkdigit
+package no.sand.eirik.novalidation
 
 import java.lang.Character.getNumericValue
 
